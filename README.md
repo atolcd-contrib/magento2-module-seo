@@ -119,7 +119,7 @@ See: [Robots Configuration](docs/Robots.md)
 ## Requirements
 
 - PHP: > 7.0
-- Magento 2.2.x | 2.3.x
+- Magento 2.2.x | 2.3.x | 2.4.x
 
 Support
 -------
